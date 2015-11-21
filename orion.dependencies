@@ -3,6 +3,6 @@
   {
     "repository": "TeamOrion-Devices/device_google_sprout-common",
     "target_path": "device/google/sprout-common"
-    "branch":      "mm6.0"  }
- 
+    "branch":      "mm6.0"
+  }
 ]
