@@ -1,9 +1,16 @@
 [
 
   {
-    "repository": "TeamOrion-Devices/device_google_sprout-common",
+    "repository": "device_google_sprout-common",
     "target_path": "device/google/sprout-common"
-    "branch":      "mm6.0"
+  },
+  {
+    "repository": "vendor_google",
+    "target_path": "vendor/google"
+  },
+  {
+    "repository": "kernel_mediatek_sprout",
+    "target_path": "kernel/mediatek/sprout"
   }
 
 ]
